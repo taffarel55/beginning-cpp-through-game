@@ -21,7 +21,7 @@ Códigos dos exercícios do livro **Beginning C++ Through Game Programming, Thir
 ## Capítulos
 - [Chapter 1 - Types, Variables, and Standard I/O: Lost Fortune](https://github.com/taffarel55/gameBook/tree/main/Chapter%201)
 - [Chapter 2 - Truth, Branching, and the Game Loop: Guess My Number](https://github.com/taffarel55/gameBook/tree/main/Chapter%202)
-- Em breve!
+- [Chapter 3 - For Loops, Strings, and Arrays: Word Jumble](https://github.com/taffarel55/beginning-cpp-through-game/tree/main/Chapter%203)
 
 ## Contribuindo
 
